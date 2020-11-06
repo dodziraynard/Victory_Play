@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.innova.victoryplay.ui.MainActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_check"
+        android:title="@string/save"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bible"
+        android:icon="@drawable/ic_book"
+        android:title="@string/bible"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_cancel"
+        android:icon="@drawable/ic_close"
+        android:title="@string/cancel"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete"
+        app:showAsAction="collapseActionView" />
+</menu>

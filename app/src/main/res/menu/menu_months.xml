@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.innova.victoryplay.ui.MainActivity">
+
+    <item
+        android:id="@+id/action_1"
+        android:title="@string/january" />
+
+    <item
+        android:id="@+id/action_2"
+        android:title="@string/february" />
+
+    <item
+        android:id="@+id/action_3"
+        android:title="@string/march" />
+
+    <item
+        android:id="@+id/action_4"
+        android:title="@string/april" />
+
+    <item
+        android:id="@+id/action_5"
+        android:title="@string/may" />
+
+    <item
+        android:id="@+id/action_6"
+        android:title="@string/june" />
+
+    <item
+        android:id="@+id/action_7"
+        android:title="@string/july" />
+
+    <item
+        android:id="@+id/action_8"
+        android:title="@string/august" />
+
+    <item
+        android:id="@+id/action_9"
+        android:title="@string/september" />
+
+    <item
+        android:id="@+id/action_10"
+        android:title="@string/october" />
+
+    <item
+        android:id="@+id/action_11"
+        android:title="@string/november" />
+
+    <item
+        android:id="@+id/action_12"
+        android:title="@string/december" />
+
+</menu>

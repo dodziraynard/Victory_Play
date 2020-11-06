@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.innova.victoryplay.ui.MainActivity">
+    <item
+        android:id="@+id/action_take_note"
+        android:icon="@drawable/ic_event_note"
+        android:title="Take Note"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_content"
+        android:icon="@drawable/ic_view_list"
+        android:title="Content"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_close"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Close" />
+</menu>

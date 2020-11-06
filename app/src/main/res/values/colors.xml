@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#eaebed</color>
+    <color name="colorAccent">#3f339f</color>
+    <color name="colorAccentLight">#c6bdec</color>
+
+    <color name="colorSecondary">#fc551e</color>
+    <color name="colorSecondaryLight">#fea98b</color>
+    <color name="colorBrightDay">#fff</color>
+    <color name="windowBackground">#fff</color>
+    <color name="cardBackground">#fff</color>
+    <color name="background">#eaebed</color>
+    <color name="colorContrast1">#121212</color>
+    <color name="colorContrast2">#7f7f88</color>
+    <color name="colorContrast3">#e2e3e5</color>
+    <color name="colorError">#F40707</color>
+    <color name="colorSuccess">#00E638</color>
+    <color name="colorSuccessLight">#8BFFB5</color>
+</resources>
